@@ -4,6 +4,9 @@
 ## Sec: 2
 ## B.N.: 49
 
+
+![image](https://user-images.githubusercontent.com/83988379/198905381-847244a3-9a42-4f32-829f-1d91b923eee0.png)
+
 ## Attributes:
 * size
 * capacity
